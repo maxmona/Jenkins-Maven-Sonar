@@ -35,4 +35,7 @@ code commit
 s3- creation of bucket
 
 elastic beanstalk- deploy application
+
+
+http://52.64.97.221/
 	
