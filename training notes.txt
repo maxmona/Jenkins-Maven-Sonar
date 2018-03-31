@@ -1,0 +1,38 @@
+DevOps (CI-CD)
+Microservices
+Cloud
+EAI- Enterprise Architecture Integration
+
+Tools for this training- git2.15 eclipse(with plug in)- maven 3.3.9
+
+Spring boot-
+Spring cloud- (Eureka)-
+
+cloud provide - AWS, IBM
+
+Service Model
+	IaaS - Infrastructure as Service.
+	PaaS - Platform as Service. 
+	SaaS - Software as Service. Splunk
+
+
+Elastic cloud
+
+
+https://capgemini-lnc.signin.aws.amazon.com/console
+
+user: associate
+pwd: Cap@123
+
+associate-at-880065577234 
+5k7YGOco8nB+IPlKdIa+r4TMe+qf/qZiheccmkUuTmM=
+
+
+git clone https://git-codecommit.ap-southeast-2.amazonaws.com/v1/repos/Maven-code-repos
+
+code build
+code commit
+s3- creation of bucket
+
+elastic beanstalk- deploy application
+	
